@@ -1,0 +1,2 @@
+D:\115\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.AssemblyReference.cache
+D:\115\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
