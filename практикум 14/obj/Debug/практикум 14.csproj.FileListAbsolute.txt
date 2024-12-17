@@ -1,0 +1,7 @@
+D:\115\практикум 14\bin\Debug\практикум 14.exe.config
+D:\115\практикум 14\bin\Debug\практикум 14.exe
+D:\115\практикум 14\bin\Debug\практикум 14.pdb
+D:\115\практикум 14\obj\Debug\практикум 14.csproj.AssemblyReference.cache
+D:\115\практикум 14\obj\Debug\практикум 14.csproj.CoreCompileInputs.cache
+D:\115\практикум 14\obj\Debug\практикум 14.exe
+D:\115\практикум 14\obj\Debug\практикум 14.pdb
